@@ -1,8 +1,7 @@
 -  Hi, I’m ahmed fathy "You can call me tharwat"
 -  I’m interested in software development which was the reason to join faculty of engineering benha university department of computer and technology
 -  I’m currently learning AI 
--  How to reach me
-  you can get in touch wiz me on : +201273800173
+-  you can get in touch wiz me on : +201273800173
 
 
 <!---
